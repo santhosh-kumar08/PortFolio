@@ -1,7 +1,7 @@
 import { ExternalLink, Github } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-// ✅ Import local images
+
 import expenseTrackerImg from "@/assets/expense-tracker.png";
 import phishShieldImg from "@/assets/phishshield.png";
 
